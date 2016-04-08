@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusiurisroma00bethgoog/corpusiurisroma00bethgoog_0029.png"; bbox 0 0 1525 1802; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 574 778 804 808">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 574 778 804 808">
+     <span class='ocr_line' id='line_1_1' title="bbox 574 778 804 808; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 574 778 804 808; x_wconf 86' lang='lat' dir='ltr'>GAII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 258 894 1125 939">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 258 894 1125 939">
+     <span class='ocr_line' id='line_1_2' title="bbox 258 894 1125 939; baseline 0 -2"><span class='ocrx_word' id='word_1_2' title='bbox 258 894 1125 939; x_wconf 89' lang='lat' dir='ltr'><strong>INSTITVTIONVM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 455 1025 926 1055">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 455 1025 926 1055">
+     <span class='ocr_line' id='line_1_3' title="bbox 455 1025 926 1055; baseline -0.002 -4"><span class='ocrx_word' id='word_1_3' title='bbox 455 1025 697 1051; x_wconf 79' lang='lat' dir='ltr'>COMMENTARII</span> <span class='ocrx_word' id='word_1_4' title='bbox 728 1025 926 1055; x_wconf 73' lang='lat' dir='ltr'><strong>QVATTVOR</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
